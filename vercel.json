@@ -1,7 +1,4 @@
 {
   "version": 2,
-  "buildCommand": "npm install",
-  "env": {
-    "FRONTEND_URL": "@frontend_url"
-  }
+  "buildCommand": "npm install"
 }
